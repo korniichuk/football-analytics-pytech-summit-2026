@@ -1,0 +1,22 @@
+id,sport_id,league_id,season_id,stage_id,group_id,aggregate_id,round_id,state_id,venue_id,name,starting_at,result_info,leg,details,length,placeholder,has_odds,has_premium_odds,starting_at_timestamp
+19032613,1,1326,22842,77468274,250003.0,,327513.0,5,53,Germany vs Scotland,2024-06-14 19:00:00,Germany won after full-time.,1/1,Match 1,90,False,True,True,1718391600
+19032614,1,1326,22842,77468274,250003.0,,327514.0,5,1945,Germany vs Hungary,2024-06-19 16:00:00,Germany won after full-time.,1/1,Match 14,90,False,True,True,1718812800
+19032615,1,1326,22842,77468274,250003.0,,327515.0,5,339832,Switzerland vs Germany,2024-06-23 19:00:00,Game ended in draw.,1/1,Match 25,90,False,True,True,1719169200
+19032605,1,1326,22842,77468273,,,,5,2166,Germany vs Denmark,2024-06-29 19:00:00,Germany won after full-time.,1/1,Match 37,90,False,True,True,1719687600
+19032601,1,1326,22842,77468272,,,,7,1945,Spain vs Germany,2024-07-05 16:00:00,Spain won after extra-time.,1/1,Match 45,90,False,True,True,1720195200
+19085361,1,1538,23188,77469892,250246.0,,333552.0,5,302413,Germany vs Hungary,2024-09-07 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1725734700
+19085364,1,1538,23188,77469892,250246.0,,333553.0,5,154,Netherlands vs Germany,2024-09-10 18:45:00,Game ended in draw.,1/1,,90,False,True,True,1725993900
+19085365,1,1538,23188,77469892,250246.0,,333554.0,5,2603,Bosnia and Herzegovina vs Germany,2024-10-11 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1728672300
+19085368,1,1538,23188,77469892,250246.0,,333555.0,5,53,Germany vs Netherlands,2024-10-14 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1728931500
+19085369,1,1538,23188,77469892,250246.0,,333556.0,5,2063,Germany vs Bosnia and Herzegovina,2024-11-16 19:45:00,Germany won after full-time.,1/1,,90,False,True,True,1731786300
+19085372,1,1538,23188,77469892,250246.0,,333557.0,5,338752,Hungary vs Germany,2024-11-19 19:45:00,Game ended in draw.,1/1,,90,False,True,True,1732045500
+19330542,1,1538,23188,77469891,,58073.0,,5,1721,Italy vs Germany,2025-03-20 19:45:00,Germany won after full-time.,1/2,,90,False,True,True,1742499900
+19330543,1,1538,23188,77469891,,58073.0,,5,2166,Germany vs Italy,2025-03-23 19:45:00,Game ended in draw.,2/2,,90,False,True,True,1742759100
+19330514,1,1538,23188,77469887,,,,5,53,Germany vs Portugal,2025-06-04 19:10:00,Portugal won after full-time.,1/1,,90,False,True,True,1749064200
+19330560,1,1538,23188,77469885,,,,5,1945,Germany vs France,2025-06-08 13:00:00,France won after full-time.,1/1,,90,False,True,True,1749387600
+19427830,1,720,21887,77464842,249211.0,,362706.0,5,9048,Slovakia vs Germany,2025-09-04 18:45:00,Slovakia won after full-time.,1/1,,90,False,True,True,1757011500
+19427850,1,720,21887,77464842,249211.0,,362707.0,5,1946,Germany vs Northern Ireland,2025-09-07 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1757270700
+19427884,1,720,21887,77464842,249211.0,,362708.0,5,1618,Germany vs Luxembourg,2025-10-10 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1760121900
+19427920,1,720,21887,77464842,249211.0,,362709.0,5,8014,Northern Ireland vs Germany,2025-10-13 18:45:00,Germany won after full-time.,1/1,,90,False,True,True,1760381100
+19427934,1,720,21887,77464842,249211.0,,362710.0,5,343330,Luxembourg vs Germany,2025-11-14 19:45:00,Germany won after full-time.,1/1,,90,False,True,True,1763149500
+19427866,1,720,21887,77464842,249211.0,,362711.0,5,3876,Germany vs Slovakia,2025-11-17 19:45:00,Germany won after full-time.,1/1,,90,False,True,True,1763408700

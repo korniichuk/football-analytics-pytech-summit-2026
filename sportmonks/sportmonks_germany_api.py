@@ -165,7 +165,6 @@ def filter_germany_corpus(
     *,
     league_ids: frozenset[int] | None = None,
     years: tuple[int, ...] = (2024, 2025),
-    finished_only: bool = True,
 ) -> list[dict[str, Any]]:
     league_ids = league_ids or LEAGUE_IDS
     kept: list[dict[str, Any]] = []
@@ -180,8 +179,6 @@ def filter_germany_corpus(
         except ValueError:
             continue
         if y not in years:
-            continue
-        if finished_only and fx.get("state_id") != FINISHED_STATE_ID:
             continue
         kept.append(fx)
     return kept
